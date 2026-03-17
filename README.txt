@@ -1,6 +1,3 @@
-Research Paper Assignment - Week 10
-===================================
-
 Titel: Can Perplexity Detect AI-Generated Text?
 
 Autor: Mike Kosthorst und Alexandra Schaef 
@@ -52,8 +49,3 @@ Ausführungshinweise
 5. Reproduzierbarkeit:
    - Alle Seeds sind auf 42 gesetzt (np.random.seed(42))
    - NLTK-Downloads erfolgen automatisch (punkt, punkt_tab)
-
-Kontakt bei Fragen:
-kosthorst23895@hs-ansbach.de und schaef23925@hs-ansbach.de
-
-Viel Erfolg bei der Bewertung!
